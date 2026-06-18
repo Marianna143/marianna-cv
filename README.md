@@ -4,7 +4,7 @@ Curated repository for internship applications.
 
 ## Main Resume
 
-- [Мельникова_Марианна_МАСТЕР.pdf](resume/Мельникова_Марианна_МАСТЕР.pdf)
+- [Портфолио_Мельниковой_Марианны.pdf](resume/Портфолио_Мельниковой_Марианны.pdf)
 
 ## Cases
 
