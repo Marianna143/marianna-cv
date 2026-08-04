@@ -1,20 +1,24 @@
-# Marianna Melnikova — CV Portfolio
+# Марианна Мельникова — материалы кандидата
 
-Curated repository for internship applications.
+Junior бизнес-аналитик / IT-аналитик. В репозитории собраны резюме и подтверждающие учебные материалы.
 
-## Main Resume
+## Целевое резюме
 
-- [Портфолио_Мельниковой_Марианны.pdf](resume/Портфолио_Мельниковой_Марианны.pdf)
+- [Бизнес-аналитик Junior](resume/Мельникова_Марианна_Бизнес-аналитик_Junior.pdf)
 
-## Cases
+## Результаты
 
-- `cases/ddln-2025/` — DDLN 2025, T-Bank case and final materials.
-- `cases/exprompt-2024/` — HSE hackathon "Экспром(п)т" materials.
+- Финалист DDLN 2025 — топ-100 из 10 000+ участников; кейс Т-Банка по клиентской поддержке и CJM.
+- 3-е место из 30 команд в Летней школе по программной инженерии ФКН НИУ ВШЭ; бизнес-приложение «Умная корзина» на 1С.
+- 30+ коммерческих веб-проектов с полным циклом работы с заказчиком.
 
-## Certificates And Diplomas
+## Что здесь есть
 
-- `certificates/` — certificates, diplomas and achievement scans.
+- `resume/` — целевое и расширенное резюме.
+- `certificates/` — сертификаты, дипломы и подтверждения достижений.
 
-## Scope
+## Контакты
 
-This repository contains only CV-related public application materials: resume, certificates, diplomas and selected case work. Personal source code and unrelated projects are intentionally not included.
+- [Портфолио](https://marianna-web.ru)
+- [Telegram](https://t.me/ffffzbd)
+- [Email](mailto:mim2178023@gmail.com)
