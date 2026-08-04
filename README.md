@@ -73,4 +73,5 @@
 
 - Портфолио: [marianna-web.ru](https://marianna-web.ru)
 - Telegram: [@ffffzbd](https://t.me/ffffzbd)
+- Instagram: [@ffffzbd](https://www.instagram.com/ffffzbd/)
 - Email: [mim2178023@gmail.com](mailto:mim2178023@gmail.com)
